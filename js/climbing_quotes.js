@@ -28,7 +28,6 @@ const climberQuotes = [
     { name: "Unknown", quote: "When in doubt, run it out." }
 ];
 
-
 function isWebStorageSupported() {
     return typeof (Storage) !== "undefined";
 }
