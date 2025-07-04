@@ -6,8 +6,13 @@ body {
     line-height: 1.7em;
 }
 
+.page_container {
+  max-width: 1800px;
+  margin: 0 auto;
+}
+
 .wrapper {
-    max-width: 1440px;
+    max-width: 1500px;
     margin: 60px auto 0 auto;
 }
 
@@ -453,7 +458,7 @@ i {
 }
 
 .destination_images_wrapper {
-    max-width: 1440px;
+    max-width: 1800px;
     margin: 0 auto;
     display: flex;
 }
